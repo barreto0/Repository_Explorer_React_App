@@ -71,7 +71,7 @@ const Dashboard: React.FunctionComponent = () =>{
 
   return (
     <>
-    <img src={logoImg} alt="Github Explorer"/>
+
     <Title>Explore Repositórios no GitHub</Title>
 
     <Form hasError={!!inputError} onSubmit={handleAddRepository}>

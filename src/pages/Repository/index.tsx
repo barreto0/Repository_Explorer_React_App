@@ -53,7 +53,7 @@ const Repository: React.FunctionComponent = () =>{
   return (
     <>
     <Header>
-      <img src={logoImg} alt="Github Explorer"/>
+
       <Link to='/'>
         <FiChevronLeft size={15}/>
         Voltar
